@@ -1,0 +1,72 @@
+"Phrases"
+{
+	//csgo_colors.inc "{DEFAULT}", "{RED}", "{LIGHTPURPLE}", "{GREEN}", "{LIME}", "{LIGHTGREEN}", "{LIGHTRED}", "{GRAY}", "{LIGHTOLIVE}", "{OLIVE}", "{LIGHTBLUE}", "{BLUE}", "{PURPLE}", "{GRAYBLUE}"
+
+	"Prefix"
+	{
+		"en"      "{DEFAULT}[{LIGHTBLUE}Screamer{DEFAULT}] "
+		"ru"      "{DEFAULT}[{LIGHTBLUE}Скример{DEFAULT}] "
+	}
+
+	"Access"
+	{
+		"en"      "You don't have access to the command."
+		"ru"      "У Вас нет доступа к команде."
+	}
+
+	"Greeting"
+	{
+		"en"      "Choose who you want to send the screamer to."
+		"ru"      "Выберите, кому Вы хотите отправить скример."
+	}
+
+	"Main Menu"
+	{
+		"en"      "The Screamer menu\n "
+		"ru"      "Меню скримера\n "
+	}
+
+	"Menu select a player"
+	{
+		"en"      "Select a player"
+		"ru"      "Выбрать игрока"
+	}
+
+	"Menu time of action"
+	{
+		"en"      "Time of action"
+		"ru"      "Время действия"
+	}
+
+	"Menu title who"
+	{
+		"en"      "Who should send the screamer to?\n "
+		"ru"      "Кому отправить скримера?\n "
+	}
+
+	"For how long"
+	{
+		"en"      "What is the time of action, sec.\n "
+		"ru"      "Какое время действия, сек.\n "
+	}
+
+	"No players found"
+	{
+		"en"      "No one :("
+		"ru"      "Никого :("
+	}
+
+	"A screamer has been sent"
+	{
+		"#format" "{1:.1f},{2:s}"
+		"en"      "Sent a screamer to {RED}{1}{DEFAULT} sec., to the player: {BLUE}{2}"
+		"ru"      "Отправлен скример на {RED}{1}{DEFAULT} сек., игроку: {BLUE}{2}"
+	}
+
+	"The time of action is set"
+	{
+		"#format" "{1:.1f}"
+		"en"      "Set {RED}{1}{DEFAULT} seconds."
+		"ru"      "Установлено {RED}{1}{DEFAULT} секунд."
+	}
+}
